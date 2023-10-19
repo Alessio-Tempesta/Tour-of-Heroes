@@ -1,0 +1,21 @@
+/* MessagesComponent's private CSS styles */
+h2 {
+  color: rgb(168, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+}
+
+.clear {
+  color: #333;
+  background-color: rgb(238, 238, 238);
+  margin-bottom: 12px;
+  padding: 1rem;
+  border: 5px solid burlywood;
+  border-radius: 10px;
+  border-color: rgb(158, 135, 222);
+  font-size: 1rem;
+}
+.clear:hover {
+  color: white;
+  background-color: rgb(66, 84, 92);
+}
